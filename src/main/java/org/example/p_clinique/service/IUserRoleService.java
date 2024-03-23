@@ -1,6 +1,5 @@
 package org.example.p_clinique.service;
 
-import org.example.p_clinique.entities.EnRoleName;
 import org.example.p_clinique.entities.Role;
 import org.example.p_clinique.entities.User;
 

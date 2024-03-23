@@ -1,7 +1,6 @@
 package org.example.p_clinique.service;
 
 import jakarta.transaction.Transactional;
-import org.example.p_clinique.entities.EnRoleName;
 import org.example.p_clinique.entities.Role;
 import org.example.p_clinique.entities.User;
 import org.example.p_clinique.repository.RoleRepository;

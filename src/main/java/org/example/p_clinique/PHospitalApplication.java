@@ -14,10 +14,10 @@ import java.util.Date;
 import java.util.stream.Stream;
 
 @SpringBootApplication
-public class PCliniqueApplication {
+public class PHospitalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PCliniqueApplication.class, args);
+		SpringApplication.run(PHospitalApplication.class, args);
 	}
 
 	@Bean
