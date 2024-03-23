@@ -1,4 +1,4 @@
-<h2>Activité Pratique ORM et Hibernate</h2>
+<h2>Activité Pratique ORM, JPA Hibernate Spring Data".</h2>
 
 <p>
  Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock <br>
