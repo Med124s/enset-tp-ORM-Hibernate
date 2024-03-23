@@ -1,9 +1,9 @@
-package org.example.p_clinique.service;
+package org.example.p_hospital.service;
 
-import org.example.p_clinique.entities.Consultation;
-import org.example.p_clinique.entities.Medcin;
-import org.example.p_clinique.entities.Patient;
-import org.example.p_clinique.entities.RendezVous;
+import org.example.p_hospital.entities.Consultation;
+import org.example.p_hospital.entities.Medcin;
+import org.example.p_hospital.entities.Patient;
+import org.example.p_hospital.entities.RendezVous;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package org.example.p_clinique.entities;
+package org.example.p_hospital.entities;
 import jakarta.persistence.*;
 import lombok.*;
 

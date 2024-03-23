@@ -1,4 +1,4 @@
-package org.example.p_clinique.entities;
+package org.example.p_hospital.entities;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;

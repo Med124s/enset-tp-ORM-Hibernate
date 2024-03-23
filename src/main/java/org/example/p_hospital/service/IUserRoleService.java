@@ -1,7 +1,7 @@
-package org.example.p_clinique.service;
+package org.example.p_hospital.service;
 
-import org.example.p_clinique.entities.Role;
-import org.example.p_clinique.entities.User;
+import org.example.p_hospital.entities.Role;
+import org.example.p_hospital.entities.User;
 
 import java.util.List;
 

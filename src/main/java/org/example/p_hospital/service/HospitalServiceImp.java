@@ -1,14 +1,14 @@
-package org.example.p_clinique.service;
+package org.example.p_hospital.service;
 
 import jakarta.transaction.Transactional;
-import org.example.p_clinique.entities.Consultation;
-import org.example.p_clinique.entities.Medcin;
-import org.example.p_clinique.entities.Patient;
-import org.example.p_clinique.entities.RendezVous;
-import org.example.p_clinique.repository.ConsultationRepository;
-import org.example.p_clinique.repository.MedcinRepository;
-import org.example.p_clinique.repository.PatientRepository;
-import org.example.p_clinique.repository.RendezVousRepository;
+import org.example.p_hospital.entities.Consultation;
+import org.example.p_hospital.entities.Medcin;
+import org.example.p_hospital.entities.Patient;
+import org.example.p_hospital.entities.RendezVous;
+import org.example.p_hospital.repository.ConsultationRepository;
+import org.example.p_hospital.repository.MedcinRepository;
+import org.example.p_hospital.repository.PatientRepository;
+import org.example.p_hospital.repository.RendezVousRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

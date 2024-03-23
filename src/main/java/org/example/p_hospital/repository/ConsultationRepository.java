@@ -1,7 +1,6 @@
-package org.example.p_clinique.repository;
+package org.example.p_hospital.repository;
 
-import org.example.p_clinique.entities.Consultation;
-import org.example.p_clinique.entities.RendezVous;
+import org.example.p_hospital.entities.Consultation;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

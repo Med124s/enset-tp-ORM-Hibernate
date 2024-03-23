@@ -1,9 +1,9 @@
-package org.example.p_clinique.web;
+package org.example.p_hospital.web;
 
-import org.example.p_clinique.entities.Medcin;
-import org.example.p_clinique.entities.Patient;
-import org.example.p_clinique.entities.RendezVous;
-import org.example.p_clinique.service.IHospitalService;
+import org.example.p_hospital.entities.Medcin;
+import org.example.p_hospital.entities.Patient;
+import org.example.p_hospital.entities.RendezVous;
+import org.example.p_hospital.service.IHospitalService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

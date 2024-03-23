@@ -1,10 +1,10 @@
-package org.example.p_clinique.service;
+package org.example.p_hospital.service;
 
 import jakarta.transaction.Transactional;
-import org.example.p_clinique.entities.Role;
-import org.example.p_clinique.entities.User;
-import org.example.p_clinique.repository.RoleRepository;
-import org.example.p_clinique.repository.UserRepository;
+import org.example.p_hospital.entities.Role;
+import org.example.p_hospital.entities.User;
+import org.example.p_hospital.repository.RoleRepository;
+import org.example.p_hospital.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

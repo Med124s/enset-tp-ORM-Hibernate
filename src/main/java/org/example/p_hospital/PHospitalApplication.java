@@ -1,10 +1,10 @@
-package org.example.p_clinique;
-import org.example.p_clinique.entities.*;
-import org.example.p_clinique.repository.MedcinRepository;
-import org.example.p_clinique.repository.PatientRepository;
-import org.example.p_clinique.repository.RendezVousRepository;
-import org.example.p_clinique.service.HospitalServiceImp;
-import org.example.p_clinique.service.IUserRoleService;
+package org.example.p_hospital;
+import org.example.p_hospital.entities.*;
+import org.example.p_hospital.repository.MedcinRepository;
+import org.example.p_hospital.repository.PatientRepository;
+import org.example.p_hospital.repository.RendezVousRepository;
+import org.example.p_hospital.service.HospitalServiceImp;
+import org.example.p_hospital.service.IUserRoleService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
