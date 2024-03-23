@@ -23,4 +23,4 @@
 <img src="capture/API_PATIENTS.JPG">
 
 <h1>Api List Users</h1>
-<img src="capture/Api_User_Role.JPG.JPG">
+<img src="capture/Api_User_Role.JPG">
